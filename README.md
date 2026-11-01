@@ -35,4 +35,9 @@ The timetable includes a heading, days of the week, and time slots arranged in a
 - Working with colors, spacing, and borders
 
 ## Author
+
+Arv Gupta
+
+## License
+
 Created as a beginner-friendly project to practice HTML and CSS.
